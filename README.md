@@ -8,11 +8,11 @@
 
     ~link github
 
-    Guilherme Schimidth Lingnau - RA: 
+    Guilherme Schimidth Lingnau - RA: 2210924
     
     ~foto 
 
-    ~link github
+    [~link github](https://github.com/Guilherme-Schmidt)
 
     Henrique - RA:
 
