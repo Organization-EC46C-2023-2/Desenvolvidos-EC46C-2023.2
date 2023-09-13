@@ -10,9 +10,9 @@
 
     Guilherme Schmidt Lingnau - RA: 2210924
     
-    ![Foto] ("../img/Foto - Guilherme Schmidt .jpeg")
+    Foto
 
-    -[Guilherme-Schmidt](https://github.com/Guilherme-Schmidt)
+   - [Guilherme-Schmidt] (https://github.com/Guilherme-Schmidt)
 
 
     Henrique - RA:
