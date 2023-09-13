@@ -12,7 +12,7 @@
     
     Foto
 
-   - [Guilherme-Schmidt] (https://github.com/Guilherme-Schmidt)
+    https://github.com/Guilherme-Schmidt
 
 
     Henrique - RA:
