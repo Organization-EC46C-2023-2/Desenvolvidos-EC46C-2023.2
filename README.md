@@ -2,18 +2,14 @@
 
 ## Integrantes
 
-    Guilherme Augusto Silva de Melo - RA: 2267306
+    [Guilherme Augusto Silva de Melo](https://github.com/Guilherme-Silva-Melo) - RA: 2267306
     
-    ~foto 
-
-    ~link github
-
-    Guilherme Schmidt Lingnau - RA: 2210924
+    ![Foto](img/Foto%20-%20Guilherme%20Augusto.jpg)
     
-    Foto
 
-    https://github.com/Guilherme-Schmidt
-
+    [Guilherme Schmidt Lingnau](https://github.com/Guilherme-Schmidt) - RA: 2210924
+    
+    ![Foto](img/Foto%20-%20Guilherme%20Schmidt%20.jpeg)
 
     Henrique - RA:
 
