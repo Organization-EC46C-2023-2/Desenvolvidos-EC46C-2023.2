@@ -2,33 +2,33 @@
 
 ## Integrantes
 
-    [Guilherme Augusto Silva de Melo](https://github.com/Guilherme-Silva-Melo) - RA: 2267306
-    
-    <img src="img/Foto - Guiherme Augusto.jpg" width="200">
-    
+[Guilherme Augusto Silva de Melo](https://github.com/Guilherme-Silva-Melo/) - RA: 2267306
 
-    [Guilherme Schmidt Lingnau](https://github.com/Guilherme-Schmidt) - RA: 2210924
-    
-    <img src="img/Foto - Guiherme Schmidt.jpeg" width="200">
-
-    Henrique - RA:
-
-    ~foto 
-
-    ~link github
- 
-    Jessica - RA:
-
-    ~foto 
-
-    ~link github
+<img src="img/Foto - Guilherme Augusto.jpg" width="200">
 
 
-    Joao Vitor - RA: 
+[Guilherme Schmidt Lingnau](https://github.com/Guilherme-Schmidt/) - RA: 2210924
 
-    ~foto 
+<img src="img/Foto - Guilherme Schmidt .jpeg" width="200">
 
-    ~link github
+Henrique - RA:
+
+~foto 
+
+~link github
+
+Jessica - RA:
+
+~foto 
+
+~link github
+
+
+Joao Vitor - RA: 
+
+~foto 
+
+~link github
 
 
 ## DESCRIÇÃO
