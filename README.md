@@ -4,12 +4,12 @@
 
     [Guilherme Augusto Silva de Melo](https://github.com/Guilherme-Silva-Melo) - RA: 2267306
     
-    ![Foto](img/Foto%20-%20Guilherme%20Augusto.jpg)
+    <img src="img/Foto - Guiherme Augusto.jpg" width="200">
     
 
     [Guilherme Schmidt Lingnau](https://github.com/Guilherme-Schmidt) - RA: 2210924
     
-    ![Foto](img/Foto%20-%20Guilherme%20Schmidt%20.jpeg)
+    <img src="img/Foto - Guiherme Schmidt.jpeg" width="200">
 
     Henrique - RA:
 
