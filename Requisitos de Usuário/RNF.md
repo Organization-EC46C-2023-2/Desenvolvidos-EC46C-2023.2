@@ -2,11 +2,13 @@
 
 <p align="justify">A <i>Tabela 2</i> a seguir contém os <b>Requisitos Não Funcionais (RNF)</b> elicitados utizando a técnica de Brainstorm .</p>
 
-| ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
-| :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RF01 |  O usuário deve ser capaz de finalizar a compra com menos de 3 cliques na página. | Produto/Usabilidade               |Média       |    RNF12             |
-| RF02 |  O executável do sistema não deve ser superior a 512 Kbytes.     |  Produto/eficiência     |Alta        |    RF8              |
-| RF03 |  O sistema deve ser implementado na linguagem Python.              |  Organizacionais/Implementação       |Baixa       |     -               |
+| ID   |                                 Requisito NF                              |     Categoria/Tipo        | Prioridade | Requisitos Relacionados |
+| :--: | :-----------------------------------------------------------------------: |:----------------------:   | :--------: | :---------------------: |
+| RNF01 |  O usuário deve registar uma tarefa em 2 cliques.                        |    Produto/Usabilidade    |    Média   |                         |
+| RNF02 |  O sistema deve ter uma fast tips                                        |  Produto/Usabilidade      |    Alta    |                         |
+| RNF03 |  O sistema deve ser implementado HTML, CSS E JavaScript.                 |  Implementação            |    Alta    |                         |
+| RNF04 |  O sistema deve possuir um tempo de resposta rápido para os registros    |        Desempenho         |    Alta    |                         |
+| RNF05 |  O sistema deve possuir uma compatibilidade com o browser mais comuns    |       Portabilidade       |    Alta    |                         |
 
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
