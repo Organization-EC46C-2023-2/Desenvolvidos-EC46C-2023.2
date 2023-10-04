@@ -11,11 +11,9 @@
 
 <img src="img/Foto - Guilherme Schmidt .jpeg" width="200">
 
-Henrique - RA:
+[Henrique Cesar Nogarini de Carvalho](https://github.com/henriquenogarini) - RA: 2102374
 
-~foto 
-
-~link github
+<img src="img/Foto - Henrique Nogarini.jpeg" width="200">
 
 Jessica - RA:
 
