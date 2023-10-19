@@ -11,6 +11,7 @@
 | RF05 |        O usuário deve poder escolher a relevância das tarefas.            |  Media     |     RF01    |
 | RF06 |              O usuário deve definir e visualizar o status da tarefa.      |  Alta      |             |
 | RF07 |              O usuário deve definir o prazo da tarefa.                    |  Media     |             |
+| RF08 |              O usuário deve realizar o login no sistema.                  |  Alta      |             |
 
 
 
