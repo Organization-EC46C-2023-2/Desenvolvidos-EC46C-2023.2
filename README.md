@@ -15,18 +15,13 @@
 
 <img src="img/Foto - Henrique Nogarini.jpeg" width="200">
 
-Jessica - RA:
+[Jessica](https://github.com/jespontone) - RA: 2101416
 
-~foto 
+<img src="" width="200">
 
-~link github
+[João Vitor Fernandes Marques](https://github.com/Jvitormarques/) - RA: 2575272
 
-
-Joao Vitor - RA: 
-
-~foto 
-
-~link github
+<img src="img/IMG_20221222_231443.jpg" width="200">
 
 
 ## DESCRIÇÃO
