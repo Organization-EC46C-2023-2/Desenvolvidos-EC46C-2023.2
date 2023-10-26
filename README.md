@@ -30,7 +30,7 @@ Joao Vitor - RA:
 
 
 ## DESCRIÇÃO
-    Este projeto é um sistema criado para o estudo de desenvolvimento ágil ...
+    Este projeto é um sistema criado para o estudo de desenvolvimento ágil e se trata de um aplicativo web para gerenciar tarefas. Nele, é possível criar uma conta de usuário, registrar suas tarefas pessoais e também participar de projetos compartilhados com outros membros.
 
 ## DOCUMENTOS
     - links para documentos 
