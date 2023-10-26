@@ -15,7 +15,7 @@
 
 <img src="img/Foto - Henrique Nogarini.jpeg" width="200">
 
-[Jessica](https://github.com/jespontone) - RA: 2101416
+[Jéssica Maria Spontone](https://github.com/jespontone) - RA: 2101416
 
 <img src="" width="200">
 
