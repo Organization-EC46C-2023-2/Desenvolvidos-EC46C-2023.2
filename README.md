@@ -17,7 +17,7 @@
 
 [Jéssica Maria Spontone](https://github.com/jespontone) - RA: 2101416
 
-<img src="" width="200">
+<img src="img/imagem_2023-11-16_112208138.png" width="200">
 
 [João Vitor Fernandes Marques](https://github.com/Jvitormarques/) - RA: 2575272
 
